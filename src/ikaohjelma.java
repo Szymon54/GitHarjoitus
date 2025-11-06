@@ -28,6 +28,7 @@ System.out.println("Olet aikuinen");
 
 
 
+System.out.println("Muista nauttia elämästä!");
 } }
 }
 

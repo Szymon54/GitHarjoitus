@@ -6,7 +6,9 @@ public class ikaohjelma {
 
 System.out.println("Olet alaikäinen");
 
+if (ika >= 15) {
 
+System.out.println("Saat ajaa mopoa"); }
 
 } else if (ika >= 65 && ika < 120) {
 

@@ -1,6 +1,6 @@
 public class ikaohjelma {
     public static void main(String[] args) {
-        int ika = 16;
+        int ika = 150;
 
     if (ika > 0 && ika < 18) {
 

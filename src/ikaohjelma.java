@@ -10,6 +10,11 @@ if (ika >= 15) {
 
 System.out.println("Saat ajaa mopoa"); }
 
+
+if ( ika >= 18) {
+System.out.println("Saat ajaa autoa"); 
+}
+
 } else if (ika >= 65 && ika < 120) {
 
 System.out.println("Olet eläkeläinen");

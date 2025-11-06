@@ -19,6 +19,8 @@ System.out.println("Saat ajaa autoa");
 
 System.out.println("Olet eläkeläinen");
 
+} else if (ika > 120) {
+System.out.println("Nyt jotain on pielessä");
 
 } else {
 
